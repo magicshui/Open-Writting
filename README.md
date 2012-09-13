@@ -56,7 +56,8 @@ InfoQ中文站资深编辑群组成员。
 
 ##素材提交要求
 
-
+##翻译提交要求
+详见[翻译流程](https://github.com/InfoQ/Open-Writting/wiki/%E6%96%B0%E9%97%BB%E7%BF%BB%E8%AF%91%E6%B5%81%E7%A8%8B)
 
 ##内容修订提交要求
 
